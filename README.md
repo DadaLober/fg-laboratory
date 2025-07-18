@@ -22,6 +22,7 @@ future-gadget-lab/
 │   ├── saber.jpeg
 │   ├── gun.jpeg
 │   └── time_machine.jpeg
+│   └── icon.png
 └── README.md       # This file
 ```
 
