@@ -1,6 +1,6 @@
 # Future Gadget Laboratory
 
-A simple static website inspired by the anime Steins;Gate, featuring the Future Gadget Laboratory with a cyberpunk design.
+A static website inspired by the anime Steins;Gate, featuring the Future Gadget Laboratory with a cyberpunk design.
 
 <a href="https://dadalober.github.io/fg-laboratory/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-2b2b2b?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Live Preview" />
