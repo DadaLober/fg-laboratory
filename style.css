@@ -65,6 +65,22 @@ a:hover {
     font-weight: bold;
 }
 
+.github-icon {
+    width: 20px;
+    height: 20px;
+    background-image: url("assets/github-mark.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+    filter: invert(1);
+}
+
+.github-icon:hover {
+    transform: rotate(360deg) scale(1.2);
+}
+
 .header {
     display: flex;
     justify-content: space-between;
